@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(134, 174, 142, 0.502);
+}
+
+h1 {
+    color: rgb(130, 116, 147);
+}    
+
+#ocupacion {
+    color: rgb(167, 129, 155);    
+}
+
+.intro {
+    color: rgb(83, 68, 51);
+}
+
+div.cuerpo {
+    color:black;
+}
+p,
+div{
+    font-size: 20pt
+}

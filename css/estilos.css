@@ -1,0 +1,96 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d5eeff;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: 'monospace';
+    color: #f2e9d0;
+}
+
+h4 {
+    font-size: 2.5em;
+    font-family: 'monospace';
+    text-align: center;
+}
+
+#zona-encabezado {
+    width: 85%;
+    color: #f2e9d0;
+    background-color: #bb5a5a;
+    text-align: center;
+    float: center;
+}
+
+
+#contenedor {
+    width: 85%;
+    border: 2px solid #d5eeff;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    float: center;
+}
+
+#menu {
+    color: #634258;
+    background-color: #b9d5de;
+    padding: 10px;
+    border: 1px solid #b9d5de;
+    text-align: center;
+    float: center;
+    width: 81.5%;
+}
+
+#menu a,
+#menu a:visited {
+    color:#85627a;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#menu a:hover {
+    color: white;
+    background-color: #ffffff;
+    padding: 5px;
+}
+
+#contenido {
+    height: 300px;
+    width: 85%;
+    color: #634258;
+    background-color: #f2e9d0;
+    font-family: 'Geneva';
+    font-size: 0.80 em;
+    float: center;
+}
+
+#contenido > img {
+    height: 250px;
+    border: 1px solid #d5eeff;
+    float: right;
+}
+
+img {
+    height : 140px;
+    border: 1 px solid #d5eeff;
+    float: center;
+}
+
+#final {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.75em;
+    width: 85%;
+    color: #634258;
+    background-color: #b9d5de;
+    text-align: center;
+    float: center;
+}
+
+#zona-imagenes {
+    width: 85%;
+    background-color: #f1c9c4;
+    text-align: center;
+}

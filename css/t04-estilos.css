@@ -1,0 +1,19 @@
+#zona-encabezado {
+    width: 85%;
+    color: #f2e9d0;
+    background-color: #bb5a5a;
+    text-align: center;
+}
+
+
+.texto-encabezado {
+    font-family: Geneva;
+    font-size: 12pt;
+    color: #f2e9d0;
+}
+
+.texto-cuerpo {
+    font-family: 'Geneva';
+    font-size: 10pt;
+    color: #634258;
+    }
